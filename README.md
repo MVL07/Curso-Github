@@ -1,4 +1,4 @@
 # Curso-Github
 Aprendiendo a usar esta herramienta
 
-test from github
+test2 from github
